@@ -1,6 +1,6 @@
-# ⚠️ abra no celular, ou pressione F12 para vizualizar o projeto ⚠️
+# ⚠️ Abra no celular, ou pressione F12 para vizualizar o projeto ⚠️
 
-link:
+## link:
 
 # Guia de estilos
 
