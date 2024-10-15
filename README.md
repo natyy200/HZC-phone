@@ -1,3 +1,7 @@
+⚠️ abra no celular, ou pressione F12 para vizualizar o projeto ⚠️
+
+link:
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
