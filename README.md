@@ -1,4 +1,3 @@
-# ⚠️ Abra no celular, ou pressione F12 para vizualizar o projeto ⚠️
 
 ## link: https://hzc-phone.vercel.app/
 
