@@ -1,6 +1,8 @@
 
 ## link: https://hzc-phone.vercel.app/
 
+Pressione f12 se for visualizar no computador.
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
